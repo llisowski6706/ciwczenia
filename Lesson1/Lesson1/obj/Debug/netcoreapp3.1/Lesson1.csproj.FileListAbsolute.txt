@@ -1,0 +1,12 @@
+C:\Users\gillie\source\repos\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.exe
+C:\Users\gillie\source\repos\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.deps.json
+C:\Users\gillie\source\repos\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.runtimeconfig.json
+C:\Users\gillie\source\repos\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.runtimeconfig.dev.json
+C:\Users\gillie\source\repos\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.dll
+C:\Users\gillie\source\repos\Lesson1\Lesson1\bin\Debug\netcoreapp3.1\Lesson1.pdb
+C:\Users\gillie\source\repos\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.AssemblyInfoInputs.cache
+C:\Users\gillie\source\repos\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.AssemblyInfo.cs
+C:\Users\gillie\source\repos\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\gillie\source\repos\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.dll
+C:\Users\gillie\source\repos\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.pdb
+C:\Users\gillie\source\repos\Lesson1\Lesson1\obj\Debug\netcoreapp3.1\Lesson1.genruntimeconfig.cache
