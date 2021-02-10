@@ -1,0 +1,47 @@
+using System;
+using System.Collections;
+
+namespace Cwiczenia
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Llista<int> pesel = new Llista<int>();
+            pesel.Add();
+            Add( );
+        }
+    }
+
+    
+    
+
+    internal class Llista<T> //: ICloneable, System.Collections.IList
+        {
+        static ArrayList array = new ArrayList();
+
+        public static void Add(int[] args)
+        {
+            foreach (int item in array)
+            {
+                object o = item;
+                ;
+            }
+            //int i = 10;
+            //object o = i;
+        }
+        void Remove(int[] args)
+        {
+            object o = 10;
+            int i = (int)o;
+        }
+        void Count(int[] args)
+        {
+
+        }
+        void AddRange(int[] args)
+        {
+
+        }
+    }
+}
